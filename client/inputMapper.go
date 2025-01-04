@@ -6,6 +6,10 @@ import (
 
 // Activity holds the data for discord rich presence
 type Activity struct {
+	// Activity type id
+	Type int
+	// Name of activity
+	Name string
 	// What the player is currently doing
 	Details string
 	// The user's current party status
