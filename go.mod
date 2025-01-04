@@ -1,4 +1,4 @@
-module github.com/KiwiSoupfx/rich-go
+module github.com/kiwisoupfx/rich-go
 
 go 1.17
 
